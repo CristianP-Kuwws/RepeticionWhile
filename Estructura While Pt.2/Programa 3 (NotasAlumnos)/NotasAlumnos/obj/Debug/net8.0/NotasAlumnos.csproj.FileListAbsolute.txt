@@ -1,0 +1,28 @@
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.exe
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\refint\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\NotasAlumnos\NotasAlumnos\obj\Debug\net8.0\ref\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\bin\Debug\net8.0\NotasAlumnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\refint\NotasAlumnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\NotasAlumnos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Estructura While Pt.2\Programa 3 (NotasAlumnos)\NotasAlumnos\obj\Debug\net8.0\ref\NotasAlumnos.dll
