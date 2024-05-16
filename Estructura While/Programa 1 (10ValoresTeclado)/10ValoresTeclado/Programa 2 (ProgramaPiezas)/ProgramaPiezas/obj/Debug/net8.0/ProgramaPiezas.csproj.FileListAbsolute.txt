@@ -1,0 +1,28 @@
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.exe
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\refint\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ref\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.exe
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\bin\Debug\net8.0\ProgramaPiezas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\refint\ProgramaPiezas.dll
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ProgramaPiezas.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\ProgramaPiezas\ProgramaPiezas\obj\Debug\net8.0\ref\ProgramaPiezas.dll
